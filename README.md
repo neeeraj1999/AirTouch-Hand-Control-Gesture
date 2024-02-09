@@ -4,7 +4,7 @@ to track hand movements through a webcam, translating them into cursor movements
 various controls, including opening web pages.
 
 ## Setup
-Dependencies: Python 3, OpenCV, MediaPipe, PyAutoGUI.
+Dependencies: Python 3, openCV-pthon, mediapipe ( relevant for python interpreter 9-11), pyAutoGUI.
 Install dependencies using pip install opencv-python, mediapipe, pyautogui.
 
 ## Running the Program
