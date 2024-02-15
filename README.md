@@ -8,7 +8,7 @@ Dependencies: Python 3, openCV-pthon, mediapipe ( relevant for python interprete
 Install dependencies using pip install opencv-python, mediapipe, pyautogui.
 
 ## Running the Program
-Execute python AirTouch.py in your terminal. Ensure your webcam is unobstructed and well-lit.
+Execute python AirTouch.py in your terminal.Ensure your webcam is unobstructed and well-lit.
 
 ## Usage:
 Move the cursor: Point with your index finger.  
